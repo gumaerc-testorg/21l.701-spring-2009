@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: ce5446bf-58c8-29ab-c159-45d21d7a3190
 resourcetype: Document
 title: A Short Guide to Close Reading
 uid: 687cfb98-9d48-c0c4-d209-6822452ca063

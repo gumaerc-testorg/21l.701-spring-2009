@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dca20292-9be2-4856-c351-254a235f378b
 resourcetype: Document
 title: Notes on essay revision
 uid: 7b6e02bc-247b-9072-d1bb-cecce06cb852

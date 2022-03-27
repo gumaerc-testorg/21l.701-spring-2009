@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dca20292-9be2-4856-c351-254a235f378b
 resourcetype: Document
 title: Discussion Leadership Pointers
 uid: fcf5415e-3408-bcfc-8957-b812e2d9da6e
