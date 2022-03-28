@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Related Resources
 uid: ce5446bf-58c8-29ab-c159-45d21d7a3190
 ---
@@ -18,7 +19,7 @@ EvanMather. "Image of the City." January 15, 2009. YouTube. Accessed August 6, 2
 Suggested Reading
 -----------------
 
-Professor Brouillette's Guide to Close Reading ([PDF]({{< baseurl >}}/resources/mit21l701s09_guid_close))
+Professor Brouillette's Guide to Close Reading ({{< resource_link 687cfb98-9d48-c0c4-d209-6822452ca063 "PDF" >}})
 
 Wirth, Louis. "[Urbanism as a Way of Life](http://www.jstor.org/pss/2768119)." _American Journal of Sociology_ 44, no. 1 (1938): 1-24.
 
