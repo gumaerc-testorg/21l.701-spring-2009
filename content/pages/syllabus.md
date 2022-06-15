@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on required books, effective participation, additional expectations, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 774389b8-fbfd-ce60-e929-069f5b67f7ea
 ---
