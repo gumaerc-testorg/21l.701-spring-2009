@@ -5,6 +5,7 @@ file: /courses/21l-701-literary-interpretation-literature-and-urban-experience-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Notes on essay revision
 uid: 7b6e02bc-247b-9072-d1bb-cecce06cb852
 ---
 This resource contains the information regarding Notes on essay revision.
-

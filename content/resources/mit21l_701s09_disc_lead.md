@@ -6,6 +6,7 @@ file: /courses/21l-701-literary-interpretation-literature-and-urban-experience-s
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Discussion Leadership Pointers
 uid: fcf5415e-3408-bcfc-8957-b812e2d9da6e
 ---
 This resource contains the information regarding Discussion Leadership Pointers.
-
