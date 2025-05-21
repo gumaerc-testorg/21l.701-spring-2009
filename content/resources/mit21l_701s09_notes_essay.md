@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Notes on essay revision.
-file: /ol-ocw-studio-app/courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/7b6e02bc247b9072d1bbcecce06cb852_MIT21L_701S09_Notes_Essay.pdf
+file: /courses/21l-701-literary-interpretation-literature-and-urban-experience-spring-2009/7b6e02bc247b9072d1bbcecce06cb852_MIT21L_701S09_Notes_Essay.pdf
 file_size: 55305
 file_type: application/pdf
 learning_resource_types:
