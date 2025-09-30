@@ -44,9 +44,9 @@ Introduction
 {{< tdopen >}}
 
 
-Wordsworth, William. "[Lines Composed A Few Miles Above Tintern Abbey, on Revisiting the Banks of the Wye During a Tour July 13, 1978](http://www.bartleby.com/41/376.html)." 1798.
+Wordsworth, William. "{{% resource_link "f2ca4265-9aaa-4770-9fa7-d4e6a04e2f28" "Lines Composed A Few Miles Above Tintern Abbey, on Revisiting the Banks of the Wye During a Tour July 13, 1978" %}}." 1798.
 
-———. "[Book VII: Residence in London](http://www.bartleby.com/145/ww293.html)." In _The Prelude_. New York, NY: W.W. Norton & Co., 1979. ISBN: 9780393090710.
+———. "{{% resource_link "35083f97-671c-4c13-bc82-bf4417b09faa" "Book VII: Residence in London" %}}." In _The Prelude_. New York, NY: W.W. Norton & Co., 1979. ISBN: 9780393090710.
 
 
 {{< tdclose >}}
@@ -62,9 +62,9 @@ Wordsworth, William. "[Lines Composed A Few Miles Above Tintern Abbey, on Revisi
 {{< tdopen >}}
 
 
-Engels, Friedrich. _The Condition of the Working Class in England_. New York, NY: Oxford University Press, USA, 2009. ISBN: 9780199555888. \[[Read](http://books.google.com/books?id=Up52qN5Y8a0C&pg=PAfrontcover) on Google Books\]
+Engels, Friedrich. _The Condition of the Working Class in England_. New York, NY: Oxford University Press, USA, 2009. ISBN: 9780199555888. \[{{% resource_link "7653dd0d-bb70-4aab-9990-6cf8506fba71" "Read" %}} on Google Books\]
 
-Benjamin, Walter. _The Arcades Project_. Edited by Rolf Tiedermann. Cambridge, MA: Harvard University Press, 1999. ISBN: 9780674043268. \[[Preview](http://books.google.com/books?id=tdM9Hn7pzrsC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false) in Google Books\]
+Benjamin, Walter. _The Arcades Project_. Edited by Rolf Tiedermann. Cambridge, MA: Harvard University Press, 1999. ISBN: 9780674043268. \[{{% resource_link "b57bb11d-2a15-4851-b119-a61495dd52ee" "Preview" %}} in Google Books\]
 
 
 {{< tdclose >}}
@@ -84,9 +84,9 @@ Ritzer, George, ed. "Modernity." _Blackwell Encyclopedia of Sociology_. Malden, 
 
 Walz, Robin. "Modernism." Chapter 4 in _A Companion to Europe 1900-1945_. Edited by Gordon Martel. New York, NY: Wiley-Blackwell, 2006. ISBN: 9781405106641.
 
-Simmel, Georg. "The Metropolis and Mental Life." In _The Sociology of Georg Simmel_. Translated and edited by Georg Simmel and Kurt H. Wolff. New York, NY: Free Press, 1964. ISBN: 9780029289204. ([PDF](http://www.blackwellpublishing.com/content/BPL_Images/Content_store/Sample_chapter/0631225137/Bridge.pdf))
+Simmel, Georg. "The Metropolis and Mental Life." In _The Sociology of Georg Simmel_. Translated and edited by Georg Simmel and Kurt H. Wolff. New York, NY: Free Press, 1964. ISBN: 9780029289204. ({{% resource_link "9e801014-ceb7-4a22-831b-85d7ed5c60d4" "PDF" %}})
 
-Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.bartelby.org/198/1.html)." In _Prufrock and Other Observations_. Qontro Classics, 2009.
+Eliot, T. S. "{{% resource_link "408d5e99-ef2c-4422-b4a9-90f5d2732b09" "The Love Song of J. Alfred Prufrock" %}}." In _Prufrock and Other Observations_. Qontro Classics, 2009.
 
 
 {{< tdclose >}}
@@ -118,7 +118,7 @@ Williams, Raymond. "When Was Modernism?" and "Metropolitan Perceptions and the E
 6-7
 {{< tdclose >}}
 {{< tdopen >}}
-Eliot, T. S. [_The Waste Land and Other Writings_](http://www.gutenberg.org/etext/1321). New York, NY: The Modern Library, 2002. ISBN: 9780375759345.
+Eliot, T. S. {{% resource_link "30830224-ec2c-43e7-a9a6-2103e537c9e6" "_The Waste Land and Other Writings_" %}}. New York, NY: The Modern Library, 2002. ISBN: 9780375759345.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -142,7 +142,7 @@ Workshop: modernism
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-Woolf, Virgina. _Mrs. Dalloway_. New York, NY: Penguin USA, 1996. ISBN: 9780140622218. \[[Preview](http://books.google.com/books?id=QEHI-uN0tmgC&printsec=frontcover&dq=mrs.+dalloway#v=onepage&q=&f=false) in Google Books\]
+Woolf, Virgina. _Mrs. Dalloway_. New York, NY: Penguin USA, 1996. ISBN: 9780140622218. \[{{% resource_link "f5396d7b-e175-4c84-ab15-8a12a8279eec" "Preview" %}} in Google Books\]
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -158,7 +158,7 @@ Woolf, Virgina. _Mrs. Dalloway_. New York, NY: Penguin USA, 1996. ISBN: 97801406
 
 Continue with pages 80-161 of _Mrs. Dalloway_.
 
-Le Corbusier. "The City of Tomorrow and its Planning." In _The Blackwell City Reader_. Edited by Gary Bridge and Sophie Watson. Malden, MA: Blackwell Publishing, Ltd., 2002. ISBN: 9780631225140. \[[Preview](http://books.google.com/books?id=P2aC62fqCyQC&pg=PA345=onepage) in Google Books\]
+Le Corbusier. "The City of Tomorrow and its Planning." In _The Blackwell City Reader_. Edited by Gary Bridge and Sophie Watson. Malden, MA: Blackwell Publishing, Ltd., 2002. ISBN: 9780631225140. \[{{% resource_link "ad0d0cd0-ef2f-4b03-a7a6-4315b4ff9f98" "Preview" %}} in Google Books\]
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ First paper due
 {{< tdopen >}}
 
 
-Lynch, Kevin. "The Image of the City." In _The Blackwell City Reader_. Edited by Gary Bridge and Sophie Watson. Malden, MA: Blackwell Publishing, Ltd., 2002. ISBN: 9780631225140. \[[Preview](http://books.google.com/books?id=Yl0bDTpro1AC&printsec=frontcover&dq=blackwell+city+reader#v=onepage&q=&f=false) in Google Books\]
+Lynch, Kevin. "The Image of the City." In _The Blackwell City Reader_. Edited by Gary Bridge and Sophie Watson. Malden, MA: Blackwell Publishing, Ltd., 2002. ISBN: 9780631225140. \[{{% resource_link "9eb6fb69-6820-4d99-8f12-116e82a72c84" "Preview" %}} in Google Books\]
 
 Selvon, Sam. _The Lonely Londoners_. New York, NY: Longman, 1989. ISBN: 9780582642645.
 
@@ -238,7 +238,7 @@ Taylor, Victor E. "Postmodern Culture." In _Blackwell Encyclopedia of Sociology_
 
 Williams, Raymond. "The Politics of Avant-Garde." In _The Politics of Modernism: Against the New Conformists_. New York, NY: Verso, 2007, pp. 49-63. ISBN: 9781844675807.
 
-Jameson, Frederic. "The Cultural Logic of Late Capitalism." In _Postmodernism, or, The Cultural Logic of Late Capitalism_. Durham, NC: Duke University Press, 1992, pp. 1-54. ISBN: 9780822310907. \[[Preview](http://books.google.com/books?id=oRJ9fh9BK8wC&printsec=frontcover&dq=Postmodernism,+or,+The+Cultural+Logic+of+Late+Capitalism.#v=onepage&q=&f=false) in Google Books\]
+Jameson, Frederic. "The Cultural Logic of Late Capitalism." In _Postmodernism, or, The Cultural Logic of Late Capitalism_. Durham, NC: Duke University Press, 1992, pp. 1-54. ISBN: 9780822310907. \[{{% resource_link "521b52db-4782-4d4f-a387-d6615209f4da" "Preview" %}} in Google Books\]
 
 
 {{< tdclose >}}
@@ -274,7 +274,7 @@ Harvey, David. "Modernity and Modernism & Postmodernism." In _The Condition of P
 
 Continue with _The Condition of Postmodernity_.
 
-Smith, Zadie. "[Stuart](http://www.newyorker.com/archive/1999/12/27/1999_12_27_060_TNY_LIBRY_000019888)." _The New Yorker_ 75 (December 27, 1999): 60.
+Smith, Zadie. "{{% resource_link "f46dd085-8276-45ba-b261-d2e9dba74e7b" "Stuart" %}}." _The New Yorker_ 75 (December 27, 1999): 60.
 
 Orum, Anthony M. "Urbanization." _Blackwell Encyclopedia of Sociology_. Edited by George Ritzer. Malden, MA: Blackwell Publishing, 2007. ISBN: 9781405124331.
 
@@ -352,9 +352,9 @@ Continue to the end of _The Gunny Sack_.
 {{< tdopen >}}
 
 
-Smith, Neil. "[New Globalism, New Urbanism: Gentrification of Global Urban Strategy](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1467-8330.00249)." _Antipode: A Radical Journal of Geography_ 34, no. 3 (2002): 427-450.
+Smith, Neil. "{{% resource_link "977d225d-e6aa-408d-8a41-873d694fcd13" "New Globalism, New Urbanism: Gentrification of Global Urban Strategy" %}}." _Antipode: A Radical Journal of Geography_ 34, no. 3 (2002): 427-450.
 
-Wilson, Robert McLiam. _Ripley Bogle_. New York, NY: Ballantine Books, 2000. ISBN: 9780345430946. \[[Preview](http://books.google.com/books?id=7Dp4b8QM6cQC&printsec=frontcover&dq=ripley+bogle#v=onepage&q=&f=false) in Google Books\]
+Wilson, Robert McLiam. _Ripley Bogle_. New York, NY: Ballantine Books, 2000. ISBN: 9780345430946. \[{{% resource_link "794dfa33-7890-4317-8046-ee0336c006e9" "Preview" %}} in Google Books\]
 
 
 {{< tdclose >}}
